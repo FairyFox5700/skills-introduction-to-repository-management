@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @FairyFox5700
+/src/backend/database.py      @FairyFox5700
+/src/backend/routers/auth.py  @FairyFox5700
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @FairyFox5700
